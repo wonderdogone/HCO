@@ -6,10 +6,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>JRed</name>
+    <name>HCO</name>
 
     <description>
-      An red beacon example. 
+      An HCO beacon example. 
     </description>
 
     <author href="https://build.phonegap.com" email="support@phonegap.com">
